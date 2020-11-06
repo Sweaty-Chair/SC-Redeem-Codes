@@ -1,4 +1,4 @@
-# Unity-Redeem-Code
+# Unity Redeem Code
 [![Build status](https://ci.appveyor.com/api/projects/status/github/Sweaty-Chair/Unity-Redeem-Code?branch=main&svg=true)](https://ci.appveyor.com/project/Sweaty-Chair/Unity-Redeem-Code/branch/main)
 [![Join the chat](https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat)](https://discord.gg/qwqeBtS)
 
