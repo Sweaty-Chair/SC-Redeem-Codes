@@ -1,5 +1,5 @@
 # SC Redeem Codes
-[![Build status](https://ci.appveyor.com/api/projects/status/github/Sweaty-Chair/Unity-Redeem-Code?branch=main&svg=true)](https://ci.appveyor.com/project/Sweaty-Chair/Unity-Redeem-Code/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/Sweaty-Chair/SC-Redeem-Codes?branch=main&svg=true)](https://ci.appveyor.com/project/Sweaty-Chair/Unity-Redeem-Code/branch/main)
 [![Join the chat](https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat)](https://discord.gg/qwqeBtS)
 
 > A redeem code system in Unity for compensating your players or rewarding them in events. A redeem code contains 12 characters (letters+number). You will need your own server to store and validate the redeem code. Use [this Laravel pagkage](https://github.com/furic/laravel-redeem-codes) for creating the server Redeem code function in Laravel, or you can create your own.
