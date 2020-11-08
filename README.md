@@ -14,7 +14,7 @@
 Import this package into Unity, you will also need [SC-Essentials](https://github.com/Sweaty-Chair/SC-Essentials) package for the shared scripts.
 
 ## Configuration
-Go to Menu Bar > Sweaty Chair > Settings > Server, and put your server API URL.
+Go to Menu toolbar > Sweaty Chair > Settings > Server, and put your server API URL.
 
 ## Usage
 Call `RedeemCodeManager.Show()` to show a input box for player to input the redeem code.
